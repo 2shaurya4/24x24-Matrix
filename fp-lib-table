@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "No_Refs") (type "KiCad") (uri "C:/Users/Shaurya/Desktop/Projects/KiCad footprints/No_Refs.pretty") (options "") (descr ""))
+	(lib (name "SM06B_GHS_TB") (type "KiCad") (uri "${KIPRJMOD}/Components/SM06B_GHS_TB") (options "") (descr ""))
+)
